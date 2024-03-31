@@ -1,8 +1,8 @@
 {
-  "name": "talha",
+  "name": "Talha_Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://talhariaz324.github.io/talha",
+  "homepage": "https://talhariaz324.github.io/Talha_Portfolio",
   "dependencies": {
     "colorthief": "^2.3.0",
     "enzyme": "^3.11.0",
